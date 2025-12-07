@@ -1,7 +1,7 @@
-## Hidden in plainsight
+## Hidden in Plainsight
 Difficulty: Easy
 
-### How I solved it
+### How I solved it:
 
 - opened my Linus VM
 
@@ -9,12 +9,13 @@ Difficulty: Easy
 
 - using basic commands to inspect the contents
 
-<code>file <filename></code>
-<code>strings <filename></code>
+    `file <filename>`
+
+    `strings <filename>`
 
 - noticed unusual pattern and should not be a normal file content
 
 - using `grep` to search deeply
 
-<code>strings <filename> | grep -i pico</code>
+    `strings <filename> | grep -i pico`
 
