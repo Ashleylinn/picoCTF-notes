@@ -1,0 +1,7 @@
+### File Identification & Inspection
+
+- Check file types 
+
+```
+file <filename>
+```
