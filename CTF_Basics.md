@@ -1,5 +1,5 @@
 
-### File Identification & Inspection
+### File Identification & Inspection 
 
 - Check file types 
 
